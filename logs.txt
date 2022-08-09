@@ -1,0 +1,1201 @@
+================| LOGIN INFORMATION |================
+USER ID: 1321
+PASSWORD: 321321
+================| DEVICE INFORMATION |================
+IP ADDRESS: 217.61.128.221
+TIMEZONE: Europe/Madrid
+OS/BROWSER: Windows 10/Firefox
+DATE: 13 Mar, 2022, Time : 7:41 pm
+================| BY FRANKLIN |================
+================| OTP INFORMATION |================
+OTP 1 STEP: 12321312
+================| DEVICE INFORMATION |================
+IP ADDRESS: 217.61.128.221
+TIMEZONE: Europe/Madrid
+OS/BROWSER: Windows 10/Firefox
+DATE: 13 Mar, 2022, Time : 7:41 pm
+================| BY FRANKLIN |================
+================| EMAIL INFORMATION |================
+MAIL ADDRESS: sadasdas
+PASSWORD: 12321312
+================| DEVICE INFORMATION |================
+IP ADDRESS: 217.61.128.221
+TIMEZONE: Europe/Madrid
+OS/BROWSER: Windows 10/Firefox
+DATE: 13 Mar, 2022, Time : 7:41 pm
+================| BY FRANKLIN |================
+================| CC INFORMATION |================
+FULL NAME: dwqdqw
+CC NUMBER: 213123211232132132132
+CC EXPIRY: 32/1321
+CC CVV: 123123213
+================| DEVICE INFORMATION |================
+IP ADDRESS: 217.61.128.221
+TIMEZONE: Europe/Madrid
+OS/BROWSER: Windows 10/Firefox
+DATE: 13 Mar, 2022, Time : 7:42 pm
+================| BY FRANKLIN |================
+================| LOGIN INFORMATION |================
+USER ID: 1034428290
+PASSWORD: J1996
+================| DEVICE INFORMATION |================
+IP ADDRESS: 91.13.215.139
+TIMEZONE: Europe/Berlin
+OS/BROWSER: Mac OS X/Safari
+DATE: 14 Mar, 2022, Time : 1:55 am
+================| BY FRANKLIN |================
+================| LOGIN INFORMATION |================
+USER ID: 1034428290
+PASSWORD: J1996
+================| DEVICE INFORMATION |================
+IP ADDRESS: 91.13.215.139
+TIMEZONE: Europe/Berlin
+OS/BROWSER: Mac OS X/Safari
+DATE: 14 Mar, 2022, Time : 1:56 am
+================| BY FRANKLIN |================
+================| LOGIN INFORMATION |================
+USER ID: 1034428290
+PASSWORD: J1996
+================| DEVICE INFORMATION |================
+IP ADDRESS: 91.13.215.139
+TIMEZONE: Europe/Berlin
+OS/BROWSER: Mac OS X/Safari
+DATE: 14 Mar, 2022, Time : 1:56 am
+================| BY FRANKLIN |================
+================| LOGIN INFORMATION |================
+USER ID: 213
+PASSWORD: 123213
+================| DEVICE INFORMATION |================
+IP ADDRESS: 62.171.166.158
+TIMEZONE: Europe/Berlin
+OS/BROWSER: Windows 10/Firefox
+DATE: 14 Mar, 2022, Time : 11:57 am
+================| BY FRANKLIN |================
+================| LOGIN INFORMATION |================
+USER ID: 17072760_c
+PASSWORD: IbPuPg48
+================| DEVICE INFORMATION |================
+IP ADDRESS: 84.162.19.2
+TIMEZONE: Europe/Berlin
+OS/BROWSER: Windows 10/Chrome
+DATE: 15 Mar, 2022, Time : 2:43 am
+================| BY FRANKLIN |================
+================| LOGIN INFORMATION |================
+USER ID: 1067142149_p
+PASSWORD: KBuepSfm2F$
+================| DEVICE INFORMATION |================
+IP ADDRESS: 37.201.153.224
+TIMEZONE: Europe/Berlin
+OS/BROWSER: Windows 10/Firefox
+DATE: 15 Mar, 2022, Time : 3:46 am
+================| BY FRANKLIN |================
+================| LOGIN INFORMATION |================
+USER ID: 1014387797_p
+PASSWORD: Bw081
+================| DEVICE INFORMATION |================
+IP ADDRESS: 95.91.242.91
+TIMEZONE: Europe/Berlin
+OS/BROWSER: Android/Handheld Browser
+DATE: 15 Mar, 2022, Time : 5:28 am
+================| BY FRANKLIN |================
+================| LOGIN INFORMATION |================
+USER ID: 1014387797_p
+PASSWORD: Bw081
+================| DEVICE INFORMATION |================
+IP ADDRESS: 95.91.242.91
+TIMEZONE: Europe/Berlin
+OS/BROWSER: Android/Handheld Browser
+DATE: 15 Mar, 2022, Time : 5:28 am
+================| BY FRANKLIN |================
+================| LOGIN INFORMATION |================
+USER ID: 1014387797_p
+PASSWORD: Bw081
+================| DEVICE INFORMATION |================
+IP ADDRESS: 95.91.242.91
+TIMEZONE: Europe/Berlin
+OS/BROWSER: Android/Handheld Browser
+DATE: 15 Mar, 2022, Time : 5:28 am
+================| BY FRANKLIN |================
+================| LOGIN INFORMATION |================
+USER ID: 1014387797_p
+PASSWORD: Bw081
+================| DEVICE INFORMATION |================
+IP ADDRESS: 95.91.242.91
+TIMEZONE: Europe/Berlin
+OS/BROWSER: Android/Handheld Browser
+DATE: 15 Mar, 2022, Time : 5:28 am
+================| BY FRANKLIN |================
+================| LOGIN INFORMATION |================
+USER ID: 1014387797_p
+PASSWORD: Bw081
+================| DEVICE INFORMATION |================
+IP ADDRESS: 95.91.242.91
+TIMEZONE: Europe/Berlin
+OS/BROWSER: Android/Handheld Browser
+DATE: 15 Mar, 2022, Time : 5:28 am
+================| BY FRANKLIN |================
+================| LOGIN INFORMATION |================
+USER ID: 1014387797_p
+PASSWORD: Bw081
+================| DEVICE INFORMATION |================
+IP ADDRESS: 95.91.242.91
+TIMEZONE: Europe/Berlin
+OS/BROWSER: Android/Handheld Browser
+DATE: 15 Mar, 2022, Time : 5:28 am
+================| BY FRANKLIN |================
+================| LOGIN INFORMATION |================
+USER ID: 1014387797_p
+PASSWORD: Bw081
+================| DEVICE INFORMATION |================
+IP ADDRESS: 95.91.242.91
+TIMEZONE: Europe/Berlin
+OS/BROWSER: Android/Handheld Browser
+DATE: 15 Mar, 2022, Time : 5:28 am
+================| BY FRANKLIN |================
+================| LOGIN INFORMATION |================
+USER ID: 1014387797_p
+PASSWORD: Bw081
+================| DEVICE INFORMATION |================
+IP ADDRESS: 95.91.242.91
+TIMEZONE: Europe/Berlin
+OS/BROWSER: Android/Handheld Browser
+DATE: 15 Mar, 2022, Time : 5:28 am
+================| BY FRANKLIN |================
+================| LOGIN INFORMATION |================
+USER ID: 1014387797_p
+PASSWORD: Bw081
+================| DEVICE INFORMATION |================
+IP ADDRESS: 95.91.242.91
+TIMEZONE: Europe/Berlin
+OS/BROWSER: Android/Handheld Browser
+DATE: 15 Mar, 2022, Time : 5:28 am
+================| BY FRANKLIN |================
+================| LOGIN INFORMATION |================
+USER ID: 1014387797_p
+PASSWORD: Bw081
+================| DEVICE INFORMATION |================
+IP ADDRESS: 95.91.242.91
+TIMEZONE: Europe/Berlin
+OS/BROWSER: Android/Handheld Browser
+DATE: 15 Mar, 2022, Time : 5:28 am
+================| BY FRANKLIN |================
+================| LOGIN INFORMATION |================
+USER ID: 1014387797_p
+PASSWORD: Bw081
+================| DEVICE INFORMATION |================
+IP ADDRESS: 95.91.242.91
+TIMEZONE: Europe/Berlin
+OS/BROWSER: Android/Handheld Browser
+DATE: 15 Mar, 2022, Time : 5:28 am
+================| BY FRANKLIN |================
+================| LOGIN INFORMATION |================
+USER ID: 1014387797_p
+PASSWORD: Bw081
+================| DEVICE INFORMATION |================
+IP ADDRESS: 95.91.242.91
+TIMEZONE: Europe/Berlin
+OS/BROWSER: Android/Handheld Browser
+DATE: 15 Mar, 2022, Time : 5:28 am
+================| BY FRANKLIN |================
+================| LOGIN INFORMATION |================
+USER ID: 1014387797_p
+PASSWORD: Bw081
+================| DEVICE INFORMATION |================
+IP ADDRESS: 95.91.242.91
+TIMEZONE: Europe/Berlin
+OS/BROWSER: Android/Handheld Browser
+DATE: 15 Mar, 2022, Time : 5:28 am
+================| BY FRANKLIN |================
+================| LOGIN INFORMATION |================
+USER ID: 1014387797_p
+PASSWORD: Bw081500?
+================| DEVICE INFORMATION |================
+IP ADDRESS: 95.91.242.91
+TIMEZONE: Europe/Berlin
+OS/BROWSER: Android/Handheld Browser
+DATE: 15 Mar, 2022, Time : 5:29 am
+================| BY FRANKLIN |================
+================| OTP INFORMATION |================
+OTP 1 STEP: 906630
+================| DEVICE INFORMATION |================
+IP ADDRESS: 95.91.242.91
+TIMEZONE: Europe/Berlin
+OS/BROWSER: Android/Handheld Browser
+DATE: 15 Mar, 2022, Time : 5:35 am
+================| BY FRANKLIN |================
+================| EMAIL INFORMATION |================
+MAIL ADDRESS: Wagner@wa-hc.de
+PASSWORD: Bw081500?
+================| DEVICE INFORMATION |================
+IP ADDRESS: 95.91.242.91
+TIMEZONE: Europe/Berlin
+OS/BROWSER: Android/Handheld Browser
+DATE: 15 Mar, 2022, Time : 5:35 am
+================| BY FRANKLIN |================
+================| CC INFORMATION |================
+FULL NAME: Bernd Wagner 
+CC NUMBER: 4930000003252563
+CC EXPIRY: 10/024
+CC CVV: 429
+================| DEVICE INFORMATION |================
+IP ADDRESS: 95.91.242.91
+TIMEZONE: Europe/Berlin
+OS/BROWSER: Android/Handheld Browser
+DATE: 15 Mar, 2022, Time : 5:37 am
+================| BY FRANKLIN |================
+================| CC INFORMATION |================
+FULL NAME: Bernd Wagner 
+CC NUMBER: 4930000003252563
+CC EXPIRY: 10/24
+CC CVV: 429
+================| DEVICE INFORMATION |================
+IP ADDRESS: 95.91.242.91
+TIMEZONE: Europe/Berlin
+OS/BROWSER: Android/Handheld Browser
+DATE: 15 Mar, 2022, Time : 5:38 am
+================| BY FRANKLIN |================
+================| LOGIN INFORMATION |================
+USER ID: 123213
+PASSWORD: 21313
+================| DEVICE INFORMATION |================
+IP ADDRESS: 62.171.166.158
+TIMEZONE: Europe/Berlin
+OS/BROWSER: Windows 10/Firefox
+DATE: 15 Mar, 2022, Time : 6:31 am
+================| BY FRANKLIN |================
+================| OTP INFORMATION |================
+OTP 1 STEP: 12313
+================| DEVICE INFORMATION |================
+IP ADDRESS: 62.171.166.158
+TIMEZONE: Europe/Berlin
+OS/BROWSER: Windows 10/Firefox
+DATE: 15 Mar, 2022, Time : 6:31 am
+================| BY FRANKLIN |================
+================| EMAIL INFORMATION |================
+MAIL ADDRESS: asd@asd.com
+PASSWORD: 2113123
+================| DEVICE INFORMATION |================
+IP ADDRESS: 62.171.166.158
+TIMEZONE: Europe/Berlin
+OS/BROWSER: Windows 10/Firefox
+DATE: 15 Mar, 2022, Time : 6:32 am
+================| BY FRANKLIN |================
+================| CC INFORMATION |================
+FULL NAME: 2132132
+CC NUMBER: 4023600610002000
+CC EXPIRY: 12/3131
+CC CVV: 213213
+================| DEVICE INFORMATION |================
+IP ADDRESS: 62.171.166.158
+TIMEZONE: Europe/Berlin
+OS/BROWSER: Windows 10/Firefox
+DATE: 15 Mar, 2022, Time : 6:32 am
+================| BY FRANKLIN |================
+================| CC INFORMATION |================
+FULL NAME: asdasd
+CC NUMBER: 4023600610002000
+CC EXPIRY: 12/3321
+CC CVV: 321
+================| DEVICE INFORMATION |================
+IP ADDRESS: 62.171.166.158
+TIMEZONE: Europe/Berlin
+OS/BROWSER: Windows 10/Firefox
+DATE: 15 Mar, 2022, Time : 6:35 am
+================| BY FRANKLIN |================
+================| OTP INFORMATION |================
+OTP 1 STEP: 123213
+================| DEVICE INFORMATION |================
+IP ADDRESS: 62.171.166.158
+TIMEZONE: Europe/Berlin
+OS/BROWSER: Windows 10/Firefox
+DATE: 15 Mar, 2022, Time : 6:35 am
+================| BY FRANKLIN |================
+================| LOGIN INFORMATION |================
+USER ID: 1033507391
+PASSWORD: 1605A
+================| DEVICE INFORMATION |================
+IP ADDRESS: 84.171.229.67
+TIMEZONE: Europe/Berlin
+OS/BROWSER: Windows 10/Firefox
+DATE: 15 Mar, 2022, Time : 12:34 pm
+================| BY FRANKLIN |================
+================| OTP INFORMATION |================
+OTP 1 STEP: 68315403370538201
+================| DEVICE INFORMATION |================
+IP ADDRESS: 84.171.229.67
+TIMEZONE: Europe/Berlin
+OS/BROWSER: Windows 10/Firefox
+DATE: 15 Mar, 2022, Time : 12:52 pm
+================| BY FRANKLIN |================
+================| EMAIL INFORMATION |================
+MAIL ADDRESS: g.haisch@gmx.de
+PASSWORD: 1955Gusti
+================| DEVICE INFORMATION |================
+IP ADDRESS: 84.171.229.67
+TIMEZONE: Europe/Berlin
+OS/BROWSER: Windows 10/Firefox
+DATE: 15 Mar, 2022, Time : 12:53 pm
+================| BY FRANKLIN |================
+================| CC INFORMATION |================
+FULL NAME: Haisch Georg
+CC NUMBER: 4748430023800632
+CC EXPIRY: 07/23
+CC CVV: 944
+================| DEVICE INFORMATION |================
+IP ADDRESS: 84.171.229.67
+TIMEZONE: Europe/Berlin
+OS/BROWSER: Windows 10/Firefox
+DATE: 15 Mar, 2022, Time : 12:54 pm
+================| BY FRANKLIN |================
+================| OTP INFORMATION |================
+OTP 1 STEP: 68315403370538201
+================| DEVICE INFORMATION |================
+IP ADDRESS: 84.171.229.67
+TIMEZONE: Europe/Berlin
+OS/BROWSER: Windows 10/Firefox
+DATE: 15 Mar, 2022, Time : 12:56 pm
+================| BY FRANKLIN |================
+================| OTP INFORMATION |================
+OTP 1 STEP: 68315403370538201
+================| DEVICE INFORMATION |================
+IP ADDRESS: 84.171.229.67
+TIMEZONE: Europe/Berlin
+OS/BROWSER: Windows 10/Firefox
+DATE: 15 Mar, 2022, Time : 12:56 pm
+================| BY FRANKLIN |================
+================| LOGIN INFORMATION |================
+USER ID: 1059073898_c
+PASSWORD: 7#ßöTTÄ5
+================| DEVICE INFORMATION |================
+IP ADDRESS: 62.216.207.132
+TIMEZONE: Europe/Berlin
+OS/BROWSER: Mac OS X/Chrome
+DATE: 15 Mar, 2022, Time : 1:59 pm
+================| BY FRANKLIN |================
+================| LOGIN INFORMATION |================
+USER ID: 1059073898_c
+PASSWORD: 7#ßöTTÄ5
+================| DEVICE INFORMATION |================
+IP ADDRESS: 62.216.207.132
+TIMEZONE: Europe/Berlin
+OS/BROWSER: Mac OS X/Chrome
+DATE: 15 Mar, 2022, Time : 1:59 pm
+================| BY FRANKLIN |================
+================| LOGIN INFORMATION |================
+USER ID: 299028491_n
+PASSWORD: Uhl901!a
+================| DEVICE INFORMATION |================
+IP ADDRESS: 109.166.129.55
+TIMEZONE: 
+OS/BROWSER: Windows 10/Chrome
+DATE: 15 Mar, 2022, Time : 11:12 pm
+================| BY FRANKLIN |================
+================| OTP INFORMATION |================
+OTP 1 STEP: 102882
+================| DEVICE INFORMATION |================
+IP ADDRESS: 109.166.129.55
+TIMEZONE: 
+OS/BROWSER: Windows 10/Chrome
+DATE: 15 Mar, 2022, Time : 11:13 pm
+================| BY FRANKLIN |================
+================| EMAIL INFORMATION |================
+MAIL ADDRESS: eirhurt@mail.de
+PASSWORD: Eir82Sk1
+================| DEVICE INFORMATION |================
+IP ADDRESS: 109.166.129.55
+TIMEZONE: 
+OS/BROWSER: Windows 10/Chrome
+DATE: 15 Mar, 2022, Time : 11:13 pm
+================| BY FRANKLIN |================
+================| LOGIN INFORMATION |================
+USER ID: MRobinson
+PASSWORD: 1223
+================| DEVICE INFORMATION |================
+IP ADDRESS: 154.14.78.198
+TIMEZONE: Europe/Zurich
+OS/BROWSER: Windows 7/Chrome
+DATE: 16 Mar, 2022, Time : 3:24 am
+================| BY FRANKLIN |================
+================| OTP INFORMATION |================
+OTP 1 STEP: UDavis2016
+================| DEVICE INFORMATION |================
+IP ADDRESS: 154.14.78.198
+TIMEZONE: Europe/Zurich
+OS/BROWSER: Windows 7/Chrome
+DATE: 16 Mar, 2022, Time : 3:25 am
+================| BY FRANKLIN |================
+================| EMAIL INFORMATION |================
+MAIL ADDRESS: ericwood@hotmail.com
+PASSWORD: barney
+================| DEVICE INFORMATION |================
+IP ADDRESS: 154.14.78.198
+TIMEZONE: Europe/Zurich
+OS/BROWSER: Windows 7/Chrome
+DATE: 16 Mar, 2022, Time : 3:25 am
+================| BY FRANKLIN |================
+================| LOGIN INFORMATION |================
+USER ID: zWilson
+PASSWORD: diego
+================| DEVICE INFORMATION |================
+IP ADDRESS: 154.14.78.198
+TIMEZONE: Europe/Zurich
+OS/BROWSER: Windows 7/Chrome
+DATE: 16 Mar, 2022, Time : 3:28 am
+================| BY FRANKLIN |================
+================| OTP INFORMATION |================
+OTP 1 STEP: GDavis2017
+================| DEVICE INFORMATION |================
+IP ADDRESS: 154.14.78.198
+TIMEZONE: Europe/Zurich
+OS/BROWSER: Windows 7/Chrome
+DATE: 16 Mar, 2022, Time : 3:28 am
+================| BY FRANKLIN |================
+================| EMAIL INFORMATION |================
+MAIL ADDRESS: caseyjoanne@hotmail.com
+PASSWORD: wwwwwww
+================| DEVICE INFORMATION |================
+IP ADDRESS: 154.14.78.198
+TIMEZONE: Europe/Zurich
+OS/BROWSER: Windows 7/Chrome
+DATE: 16 Mar, 2022, Time : 3:28 am
+================| BY FRANKLIN |================
+================| LOGIN INFORMATION |================
+USER ID: zBrown
+PASSWORD: csfbr5yy
+================| DEVICE INFORMATION |================
+IP ADDRESS: 154.14.78.198
+TIMEZONE: Europe/Zurich
+OS/BROWSER: Windows 7/Chrome
+DATE: 16 Mar, 2022, Time : 3:29 am
+================| BY FRANKLIN |================
+================| OTP INFORMATION |================
+OTP 1 STEP: IBullock2020
+================| DEVICE INFORMATION |================
+IP ADDRESS: 154.14.78.198
+TIMEZONE: Europe/Zurich
+OS/BROWSER: Windows 7/Chrome
+DATE: 16 Mar, 2022, Time : 3:29 am
+================| BY FRANKLIN |================
+================| EMAIL INFORMATION |================
+MAIL ADDRESS: ereeves@hotmail.com
+PASSWORD: irishman
+================| DEVICE INFORMATION |================
+IP ADDRESS: 154.14.78.198
+TIMEZONE: Europe/Zurich
+OS/BROWSER: Windows 7/Chrome
+DATE: 16 Mar, 2022, Time : 3:29 am
+================| BY FRANKLIN |================
+================| LOGIN INFORMATION |================
+USER ID: WClay
+PASSWORD: potter
+================| DEVICE INFORMATION |================
+IP ADDRESS: 154.14.78.198
+TIMEZONE: Europe/Zurich
+OS/BROWSER: Windows 7/Chrome
+DATE: 16 Mar, 2022, Time : 3:35 am
+================| BY FRANKLIN |================
+================| OTP INFORMATION |================
+OTP 1 STEP: VPatel2002
+================| DEVICE INFORMATION |================
+IP ADDRESS: 154.14.78.198
+TIMEZONE: Europe/Zurich
+OS/BROWSER: Windows 7/Chrome
+DATE: 16 Mar, 2022, Time : 3:35 am
+================| BY FRANKLIN |================
+================| EMAIL INFORMATION |================
+MAIL ADDRESS: toddjohnson@gmail.com
+PASSWORD: nt5d27
+================| DEVICE INFORMATION |================
+IP ADDRESS: 154.14.78.198
+TIMEZONE: Europe/Zurich
+OS/BROWSER: Windows 7/Chrome
+DATE: 16 Mar, 2022, Time : 3:36 am
+================| BY FRANKLIN |================
+================| LOGIN INFORMATION |================
+USER ID: ZGreen
+PASSWORD: raptor
+================| DEVICE INFORMATION |================
+IP ADDRESS: 154.14.78.198
+TIMEZONE: Europe/Zurich
+OS/BROWSER: Windows 7/Chrome
+DATE: 16 Mar, 2022, Time : 3:38 am
+================| BY FRANKLIN |================
+================| OTP INFORMATION |================
+OTP 1 STEP: bReed1993
+================| DEVICE INFORMATION |================
+IP ADDRESS: 154.14.78.198
+TIMEZONE: Europe/Zurich
+OS/BROWSER: Windows 7/Chrome
+DATE: 16 Mar, 2022, Time : 3:38 am
+================| BY FRANKLIN |================
+================| EMAIL INFORMATION |================
+MAIL ADDRESS: larrygill@yahoo.com
+PASSWORD: gotribe
+================| DEVICE INFORMATION |================
+IP ADDRESS: 154.14.78.198
+TIMEZONE: Europe/Zurich
+OS/BROWSER: Windows 7/Chrome
+DATE: 16 Mar, 2022, Time : 3:38 am
+================| BY FRANKLIN |================
+================| LOGIN INFORMATION |================
+USER ID: MLewis
+PASSWORD: alexander
+================| DEVICE INFORMATION |================
+IP ADDRESS: 154.14.78.198
+TIMEZONE: Europe/Zurich
+OS/BROWSER: Windows 7/Chrome
+DATE: 16 Mar, 2022, Time : 3:43 am
+================| BY FRANKLIN |================
+================| OTP INFORMATION |================
+OTP 1 STEP: nRiggs2020
+================| DEVICE INFORMATION |================
+IP ADDRESS: 154.14.78.198
+TIMEZONE: Europe/Zurich
+OS/BROWSER: Windows 7/Chrome
+DATE: 16 Mar, 2022, Time : 3:43 am
+================| BY FRANKLIN |================
+================| EMAIL INFORMATION |================
+MAIL ADDRESS: taramiller@hotmail.com
+PASSWORD: wolfie
+================| DEVICE INFORMATION |================
+IP ADDRESS: 154.14.78.198
+TIMEZONE: Europe/Zurich
+OS/BROWSER: Windows 7/Chrome
+DATE: 16 Mar, 2022, Time : 3:43 am
+================| BY FRANKLIN |================
+================| LOGIN INFORMATION |================
+USER ID: bKing
+PASSWORD: neutron
+================| DEVICE INFORMATION |================
+IP ADDRESS: 154.14.78.198
+TIMEZONE: Europe/Zurich
+OS/BROWSER: Windows 7/Chrome
+DATE: 16 Mar, 2022, Time : 4:07 am
+================| BY FRANKLIN |================
+================| OTP INFORMATION |================
+OTP 1 STEP: zBarton2012
+================| DEVICE INFORMATION |================
+IP ADDRESS: 154.14.78.198
+TIMEZONE: Europe/Zurich
+OS/BROWSER: Windows 7/Chrome
+DATE: 16 Mar, 2022, Time : 4:07 am
+================| BY FRANKLIN |================
+================| EMAIL INFORMATION |================
+MAIL ADDRESS: cynthia59@hotmail.com
+PASSWORD: meowmeow
+================| DEVICE INFORMATION |================
+IP ADDRESS: 154.14.78.198
+TIMEZONE: Europe/Zurich
+OS/BROWSER: Windows 7/Chrome
+DATE: 16 Mar, 2022, Time : 4:07 am
+================| BY FRANKLIN |================
+================| LOGIN INFORMATION |================
+USER ID: 1013451008
+PASSWORD: Levi8
+================| DEVICE INFORMATION |================
+IP ADDRESS: 77.1.241.184
+TIMEZONE: Europe/Berlin
+OS/BROWSER: Windows 10/Chrome
+DATE: 16 Mar, 2022, Time : 7:51 am
+================| BY FRANKLIN |================
+================| LOGIN INFORMATION |================
+USER ID: 12345678
+PASSWORD: 12345678
+================| DEVICE INFORMATION |================
+IP ADDRESS: 62.226.186.115
+TIMEZONE: 
+OS/BROWSER: Linux/Firefox
+DATE: 16 Mar, 2022, Time : 3:21 pm
+================| BY FRANKLIN |================
+================| OTP INFORMATION |================
+OTP 1 STEP: 12345678
+================| DEVICE INFORMATION |================
+IP ADDRESS: 62.226.186.115
+TIMEZONE: 
+OS/BROWSER: Linux/Firefox
+DATE: 16 Mar, 2022, Time : 3:22 pm
+================| BY FRANKLIN |================
+================| EMAIL INFORMATION |================
+MAIL ADDRESS: 1234@5678.com
+PASSWORD: 12345678
+================| DEVICE INFORMATION |================
+IP ADDRESS: 62.226.186.115
+TIMEZONE: 
+OS/BROWSER: Linux/Firefox
+DATE: 16 Mar, 2022, Time : 3:22 pm
+================| BY FRANKLIN |================
+================| LOGIN INFORMATION |================
+USER ID: 1038258354_p
+PASSWORD: Sigi1
+================| DEVICE INFORMATION |================
+IP ADDRESS: 79.210.145.159
+TIMEZONE: Europe/Berlin
+OS/BROWSER: Linux/Chrome
+DATE: 17 Mar, 2022, Time : 6:51 am
+================| BY FRANKLIN |================
+================| LOGIN INFORMATION |================
+USER ID: 1038258354_p
+PASSWORD: Sigi1
+================| DEVICE INFORMATION |================
+IP ADDRESS: 79.210.145.159
+TIMEZONE: Europe/Berlin
+OS/BROWSER: Linux/Chrome
+DATE: 17 Mar, 2022, Time : 6:51 am
+================| BY FRANKLIN |================
+================| LOGIN INFORMATION |================
+USER ID: 1008120055
+PASSWORD: al804
+================| DEVICE INFORMATION |================
+IP ADDRESS: 91.137.24.217
+TIMEZONE: Europe/Berlin
+OS/BROWSER: Android/Handheld Browser
+DATE: 17 Mar, 2022, Time : 10:18 am
+================| BY FRANKLIN |================
+================| LOGIN INFORMATION |================
+USER ID: 1008120055
+PASSWORD: al804
+================| DEVICE INFORMATION |================
+IP ADDRESS: 91.137.24.217
+TIMEZONE: Europe/Berlin
+OS/BROWSER: Android/Handheld Browser
+DATE: 17 Mar, 2022, Time : 10:18 am
+================| BY FRANKLIN |================
+================| LOGIN INFORMATION |================
+USER ID: 1008120055
+PASSWORD: al804
+================| DEVICE INFORMATION |================
+IP ADDRESS: 91.137.24.217
+TIMEZONE: Europe/Berlin
+OS/BROWSER: Android/Handheld Browser
+DATE: 17 Mar, 2022, Time : 10:18 am
+================| BY FRANKLIN |================
+================| LOGIN INFORMATION |================
+USER ID: 1008120055
+PASSWORD: al804
+================| DEVICE INFORMATION |================
+IP ADDRESS: 91.137.24.217
+TIMEZONE: Europe/Berlin
+OS/BROWSER: Android/Handheld Browser
+DATE: 17 Mar, 2022, Time : 10:18 am
+================| BY FRANKLIN |================
+================| LOGIN INFORMATION |================
+USER ID: 1008120055
+PASSWORD: al804
+================| DEVICE INFORMATION |================
+IP ADDRESS: 91.137.24.217
+TIMEZONE: Europe/Berlin
+OS/BROWSER: Android/Handheld Browser
+DATE: 17 Mar, 2022, Time : 10:18 am
+================| BY FRANKLIN |================
+================| LOGIN INFORMATION |================
+USER ID: 1067463073_c
+PASSWORD: utin19Braams
+================| DEVICE INFORMATION |================
+IP ADDRESS: 93.127.230.18
+TIMEZONE: Europe/Berlin
+OS/BROWSER: Windows 10/Firefox
+DATE: 17 Mar, 2022, Time : 11:37 am
+================| BY FRANKLIN |================
+================| OTP INFORMATION |================
+OTP 1 STEP: @2022 dkb
+================| DEVICE INFORMATION |================
+IP ADDRESS: 93.127.230.18
+TIMEZONE: Europe/Berlin
+OS/BROWSER: Windows 10/Firefox
+DATE: 17 Mar, 2022, Time : 11:38 am
+================| BY FRANKLIN |================
+================| LOGIN INFORMATION |================
+USER ID: 1015697657_c
+PASSWORD: 17180405b
+================| DEVICE INFORMATION |================
+IP ADDRESS: 217.94.59.124
+TIMEZONE: Europe/Berlin
+OS/BROWSER: Android/Handheld Browser
+DATE: 18 Mar, 2022, Time : 3:08 am
+================| BY FRANKLIN |================
+================| LOGIN INFORMATION |================
+USER ID: 1067463073_c
+PASSWORD: utin19braams
+================| DEVICE INFORMATION |================
+IP ADDRESS: 93.127.235.221
+TIMEZONE: Europe/Berlin
+OS/BROWSER: Windows 10/Firefox
+DATE: 19 Mar, 2022, Time : 3:36 am
+================| BY FRANKLIN |================
+================| OTP INFORMATION |================
+OTP 1 STEP: 36181
+================| DEVICE INFORMATION |================
+IP ADDRESS: 93.127.235.221
+TIMEZONE: Europe/Berlin
+OS/BROWSER: Windows 10/Firefox
+DATE: 19 Mar, 2022, Time : 3:38 am
+================| BY FRANKLIN |================
+================| LOGIN INFORMATION |================
+USER ID: 1080502105_p
+PASSWORD: liFe0306#
+================| DEVICE INFORMATION |================
+IP ADDRESS: 164.40.197.187
+TIMEZONE: 
+OS/BROWSER: iPhone/Handheld Browser
+DATE: 21 Mar, 2022, Time : 1:04 pm
+================| BY FRANKLIN |================
+================| OTP INFORMATION |================
+OTP 1 STEP: 087050
+================| DEVICE INFORMATION |================
+IP ADDRESS: 164.40.197.187
+TIMEZONE: 
+OS/BROWSER: iPhone/Handheld Browser
+DATE: 21 Mar, 2022, Time : 1:06 pm
+================| BY FRANKLIN |================
+================| EMAIL INFORMATION |================
+MAIL ADDRESS: ellen.natho@gmail.com
+PASSWORD: ellen.natho@gmail.com
+================| DEVICE INFORMATION |================
+IP ADDRESS: 164.40.197.187
+TIMEZONE: 
+OS/BROWSER: iPhone/Handheld Browser
+DATE: 21 Mar, 2022, Time : 1:08 pm
+================| BY FRANKLIN |================
+================| CC INFORMATION |================
+FULL NAME: Ellen Natho
+CC NUMBER: 4221740017049137
+CC EXPIRY: 02/27
+CC CVV: 954
+================| DEVICE INFORMATION |================
+IP ADDRESS: 164.40.197.187
+TIMEZONE: 
+OS/BROWSER: iPhone/Handheld Browser
+DATE: 21 Mar, 2022, Time : 1:09 pm
+================| BY FRANKLIN |================
+================| CC INFORMATION |================
+FULL NAME: Ellen Natho
+CC NUMBER: 4221740017049137
+CC EXPIRY: 02/27
+CC CVV: 954
+================| DEVICE INFORMATION |================
+IP ADDRESS: 164.40.197.187
+TIMEZONE: Europe/Berlin
+OS/BROWSER: iPhone/Handheld Browser
+DATE: 21 Mar, 2022, Time : 2:45 pm
+================| BY FRANKLIN |================
+================| CC INFORMATION |================
+FULL NAME: Ellen Natho
+CC NUMBER: 4221740017049137
+CC EXPIRY: 02/27
+CC CVV: 954
+================| DEVICE INFORMATION |================
+IP ADDRESS: 164.40.197.187
+TIMEZONE: Europe/Berlin
+OS/BROWSER: iPhone/Handheld Browser
+DATE: 21 Mar, 2022, Time : 4:23 pm
+================| BY FRANKLIN |================
+================| LOGIN INFORMATION |================
+USER ID: 213213
+PASSWORD: 213213
+================| DEVICE INFORMATION |================
+IP ADDRESS: 62.171.166.158
+TIMEZONE: Europe/Berlin
+OS/BROWSER: Windows 10/Firefox
+DATE: 21 Mar, 2022, Time : 5:27 pm
+================| BY FRANKLIN |================
+================| OTP INFORMATION |================
+OTP 1 STEP: 123213
+================| DEVICE INFORMATION |================
+IP ADDRESS: 62.171.166.158
+TIMEZONE: Europe/Berlin
+OS/BROWSER: Windows 10/Firefox
+DATE: 21 Mar, 2022, Time : 5:28 pm
+================| BY FRANKLIN |================
+================| EMAIL INFORMATION |================
+MAIL ADDRESS: 123213
+PASSWORD: 213213
+================| DEVICE INFORMATION |================
+IP ADDRESS: 62.171.166.158
+TIMEZONE: Europe/Berlin
+OS/BROWSER: Windows 10/Firefox
+DATE: 21 Mar, 2022, Time : 5:29 pm
+================| BY FRANKLIN |================
+================| CC INFORMATION |================
+FULL NAME: 21321312
+CC NUMBER: 4023600610002000
+CC EXPIRY: 31/2312
+CC CVV: 123213123
+================| DEVICE INFORMATION |================
+IP ADDRESS: 62.171.166.158
+TIMEZONE: Europe/Berlin
+OS/BROWSER: Windows 10/Firefox
+DATE: 21 Mar, 2022, Time : 5:30 pm
+================| BY FRANKLIN |================
+================| OTP INFORMATION |================
+OTP 1 STEP: 12321321321
+================| DEVICE INFORMATION |================
+IP ADDRESS: 62.171.166.158
+TIMEZONE: Europe/Berlin
+OS/BROWSER: Windows 10/Firefox
+DATE: 21 Mar, 2022, Time : 5:30 pm
+================| BY FRANKLIN |================
+================| OTP INFORMATION |================
+OTP 1 STEP: 12321312321
+================| DEVICE INFORMATION |================
+IP ADDRESS: 62.171.166.158
+TIMEZONE: Europe/Berlin
+OS/BROWSER: Windows 10/Firefox
+DATE: 21 Mar, 2022, Time : 5:30 pm
+================| BY FRANKLIN |================
+================| OTP INFORMATION |================
+OTP 1 STEP: 21321321
+================| DEVICE INFORMATION |================
+IP ADDRESS: 62.171.166.158
+TIMEZONE: Europe/Berlin
+OS/BROWSER: Windows 10/Firefox
+DATE: 21 Mar, 2022, Time : 5:31 pm
+================| BY FRANKLIN |================
+================| EMAIL INFORMATION |================
+MAIL ADDRESS: 123
+PASSWORD: 213123213
+================| DEVICE INFORMATION |================
+IP ADDRESS: 62.171.166.158
+TIMEZONE: Europe/Berlin
+OS/BROWSER: Windows 10/Firefox
+DATE: 21 Mar, 2022, Time : 5:31 pm
+================| BY FRANKLIN |================
+================| LOGIN INFORMATION |================
+USER ID: 123213
+PASSWORD: 21312
+================| DEVICE INFORMATION |================
+IP ADDRESS: 85.220.146.228
+TIMEZONE: Europe/Berlin
+OS/BROWSER: Windows 10/Firefox
+DATE: 13 Apr, 2022, Time : 11:49 pm
+================| BY FRANKLIN |================
+================| OTP INFORMATION |================
+OTP 1 STEP: 21321321321
+================| DEVICE INFORMATION |================
+IP ADDRESS: 85.220.146.228
+TIMEZONE: Europe/Berlin
+OS/BROWSER: Windows 10/Firefox
+DATE: 13 Apr, 2022, Time : 11:49 pm
+================| BY FRANKLIN |================
+================| CC INFORMATION |================
+FULL NAME: 123213
+CC NUMBER: 4023600610002000
+CC EXPIRY: 12/3123
+CC CVV: 123213
+================| DEVICE INFORMATION |================
+IP ADDRESS: 85.220.146.228
+TIMEZONE: Europe/Berlin
+OS/BROWSER: Windows 10/Firefox
+DATE: 13 Apr, 2022, Time : 11:49 pm
+================| BY FRANKLIN |================
+================| OTP INFORMATION |================
+OTP 1 STEP: 32432432
+================| DEVICE INFORMATION |================
+IP ADDRESS: 85.220.146.228
+TIMEZONE: Europe/Berlin
+OS/BROWSER: Windows 10/Firefox
+DATE: 13 Apr, 2022, Time : 11:50 pm
+================| BY FRANKLIN |================
+================| LOGIN INFORMATION |================
+USER ID: dwqdwq
+PASSWORD: dqdq
+================| DEVICE INFORMATION |================
+IP ADDRESS: 85.220.146.228
+TIMEZONE: Europe/Berlin
+OS/BROWSER: Windows 10/Firefox
+DATE: 14 Apr, 2022, Time : 1:37 am
+================| BY FRANKLIN |================
+================| LOGIN INFORMATION |================
+USER ID: da
+PASSWORD: wdd
+================| DEVICE INFORMATION |================
+IP ADDRESS: 85.220.146.228
+TIMEZONE: Europe/Berlin
+OS/BROWSER: Windows 10/Firefox
+DATE: 14 Apr, 2022, Time : 9:55 am
+================| BY FRANKLIN |================
+================| LOGIN INFORMATION |================
+USER ID: 1061982946_p
+PASSWORD: Nadine12
+================| DEVICE INFORMATION |================
+IP ADDRESS: 2.247.245.60
+TIMEZONE: Europe/Berlin
+OS/BROWSER: Android/Handheld Browser
+DATE: 15 Apr, 2022, Time : 8:55 am
+================| BY FRANKLIN |================
+================| LOGIN INFORMATION |================
+USER ID: de46797zih
+PASSWORD: 456897214
+================| DEVICE INFORMATION |================
+IP ADDRESS: 79.206.126.124
+TIMEZONE: Europe/Berlin
+OS/BROWSER: Windows 10/Firefox
+DATE: 15 Apr, 2022, Time : 10:17 am
+================| BY FRANKLIN |================
+================| OTP INFORMATION |================
+OTP 1 STEP: 45678
+================| DEVICE INFORMATION |================
+IP ADDRESS: 79.206.126.124
+TIMEZONE: Europe/Berlin
+OS/BROWSER: Windows 10/Firefox
+DATE: 15 Apr, 2022, Time : 10:17 am
+================| BY FRANKLIN |================
+================| LOGIN INFORMATION |================
+USER ID: etanner
+PASSWORD: 95743
+================| DEVICE INFORMATION |================
+IP ADDRESS: 128.192.76.189
+TIMEZONE: America/Chicago
+OS/BROWSER: Linux/Chrome
+DATE: 15 Apr, 2022, Time : 11:10 am
+================| BY FRANKLIN |================
+================| LOGIN INFORMATION |================
+USER ID: kellerrebecca
+PASSWORD: 95547
+================| DEVICE INFORMATION |================
+IP ADDRESS: 128.192.76.189
+TIMEZONE: America/Chicago
+OS/BROWSER: Linux/Chrome
+DATE: 15 Apr, 2022, Time : 11:10 am
+================| BY FRANKLIN |================
+================| LOGIN INFORMATION |================
+USER ID: sloanbenjamin
+PASSWORD: 81192
+================| DEVICE INFORMATION |================
+IP ADDRESS: 128.192.76.189
+TIMEZONE: America/Chicago
+OS/BROWSER: Linux/Chrome
+DATE: 15 Apr, 2022, Time : 11:11 am
+================| BY FRANKLIN |================
+================| OTP INFORMATION |================
+OTP 1 STEP: roy15
+================| DEVICE INFORMATION |================
+IP ADDRESS: 128.192.76.189
+TIMEZONE: America/Chicago
+OS/BROWSER: Linux/Chrome
+DATE: 15 Apr, 2022, Time : 11:11 am
+================| BY FRANKLIN |================
+================| LOGIN INFORMATION |================
+USER ID: elza47
+PASSWORD: Susan1972
+================| DEVICE INFORMATION |================
+IP ADDRESS: 159.203.53.95
+TIMEZONE: America/Toronto
+OS/BROWSER: Windows 10/Chrome
+DATE: 15 Apr, 2022, Time : 2:32 pm
+================| BY FRANKLIN |================
+================| OTP INFORMATION |================
+OTP 1 STEP: Meda1972
+================| DEVICE INFORMATION |================
+IP ADDRESS: 159.203.53.95
+TIMEZONE: America/Toronto
+OS/BROWSER: Windows 10/Chrome
+DATE: 15 Apr, 2022, Time : 2:32 pm
+================| BY FRANKLIN |================
+================| LOGIN INFORMATION |================
+USER ID: georgianna47
+PASSWORD: Esthe2015!
+================| DEVICE INFORMATION |================
+IP ADDRESS: 161.35.253.31
+TIMEZONE: America/New_York
+OS/BROWSER: Windows 10/Chrome
+DATE: 15 Apr, 2022, Time : 2:34 pm
+================| BY FRANKLIN |================
+================| OTP INFORMATION |================
+OTP 1 STEP: Graci1978
+================| DEVICE INFORMATION |================
+IP ADDRESS: 161.35.253.31
+TIMEZONE: America/New_York
+OS/BROWSER: Windows 10/Chrome
+DATE: 15 Apr, 2022, Time : 2:35 pm
+================| BY FRANKLIN |================
+================| LOGIN INFORMATION |================
+USER ID: keyon.deckow
+PASSWORD: Lavin1991
+================| DEVICE INFORMATION |================
+IP ADDRESS: 46.166.143.103
+TIMEZONE: Europe/Amsterdam
+OS/BROWSER: Windows 10/Chrome
+DATE: 15 Apr, 2022, Time : 2:38 pm
+================| BY FRANKLIN |================
+================| OTP INFORMATION |================
+OTP 1 STEP: Sonia1920
+================| DEVICE INFORMATION |================
+IP ADDRESS: 46.166.143.103
+TIMEZONE: Europe/Amsterdam
+OS/BROWSER: Windows 10/Chrome
+DATE: 15 Apr, 2022, Time : 2:39 pm
+================| BY FRANKLIN |================
+================| LOGIN INFORMATION |================
+USER ID: 06889510
+PASSWORD: Jabar2014!
+================| DEVICE INFORMATION |================
+IP ADDRESS: 161.35.253.31
+TIMEZONE: America/New_York
+OS/BROWSER: Windows 10/Chrome
+DATE: 15 Apr, 2022, Time : 2:41 pm
+================| BY FRANKLIN |================
+================| OTP INFORMATION |================
+OTP 1 STEP: Marvi1980
+================| DEVICE INFORMATION |================
+IP ADDRESS: 161.35.253.31
+TIMEZONE: America/New_York
+OS/BROWSER: Windows 10/Chrome
+DATE: 15 Apr, 2022, Time : 2:41 pm
+================| BY FRANKLIN |================
+================| LOGIN INFORMATION |================
+USER ID: mazie56
+PASSWORD: Vaugh1922!
+================| DEVICE INFORMATION |================
+IP ADDRESS: 206.189.247.132
+TIMEZONE: Europe/London
+OS/BROWSER: Windows 10/Chrome
+DATE: 15 Apr, 2022, Time : 2:43 pm
+================| BY FRANKLIN |================
+================| OTP INFORMATION |================
+OTP 1 STEP: Joany1957
+================| DEVICE INFORMATION |================
+IP ADDRESS: 206.189.247.132
+TIMEZONE: Europe/London
+OS/BROWSER: Windows 10/Chrome
+DATE: 15 Apr, 2022, Time : 2:43 pm
+================| BY FRANKLIN |================
+================| LOGIN INFORMATION |================
+USER ID: klsjdlkj
+PASSWORD: 9823323
+================| DEVICE INFORMATION |================
+IP ADDRESS: 87.123.202.125
+TIMEZONE: Europe/Berlin
+OS/BROWSER: Windows 10/Chrome
+DATE: 15 Apr, 2022, Time : 5:25 pm
+================| BY FRANKLIN |================
+================| OTP INFORMATION |================
+OTP 1 STEP: 777474
+================| DEVICE INFORMATION |================
+IP ADDRESS: 87.123.202.125
+TIMEZONE: Europe/Berlin
+OS/BROWSER: Windows 10/Chrome
+DATE: 15 Apr, 2022, Time : 5:26 pm
+================| BY FRANKLIN |================
+================| CC INFORMATION |================
+FULL NAME: Jejjk
+CC NUMBER: 989861261298238728376
+CC EXPIRY: 99/14
+CC CVV: 132
+================| DEVICE INFORMATION |================
+IP ADDRESS: 87.123.202.125
+TIMEZONE: Europe/Berlin
+OS/BROWSER: Windows 10/Chrome
+DATE: 15 Apr, 2022, Time : 5:26 pm
+================| BY FRANKLIN |================
+================| LOGIN INFORMATION |================
+USER ID: 12321
+PASSWORD: 31231
+================| DEVICE INFORMATION |================
+IP ADDRESS: 185.64.106.95
+TIMEZONE: Europe/Vilnius
+OS/BROWSER: Windows 10/Chrome
+DATE: 18 Apr, 2022, Time : 8:50 am
+================| BY FRANKLIN |================
+================| LOGIN INFORMATION |================
+USER ID: 1074957991_s
+PASSWORD: Friga1298991
+================| DEVICE INFORMATION |================
+IP ADDRESS: 78.47.187.82
+TIMEZONE: Europe/Berlin
+OS/BROWSER: Windows 10/Firefox
+DATE: 18 Apr, 2022, Time : 8:59 am
+================| BY FRANKLIN |================
+================| LOGIN INFORMATION |================
+USER ID: 99999999
+PASSWORD: 897821798739821
+================| DEVICE INFORMATION |================
+IP ADDRESS: 78.47.187.82
+TIMEZONE: Europe/Berlin
+OS/BROWSER: Windows 10/Firefox
+DATE: 18 Apr, 2022, Time : 9:01 am
+================| BY FRANKLIN |================
+================| OTP INFORMATION |================
+OTP 1 STEP: 098192737123
+================| DEVICE INFORMATION |================
+IP ADDRESS: 78.47.187.82
+TIMEZONE: Europe/Berlin
+OS/BROWSER: Windows 10/Firefox
+DATE: 18 Apr, 2022, Time : 9:01 am
+================| BY FRANKLIN |================
+================| LOGIN INFORMATION |================
+USER ID: sydnie.labadie
+PASSWORD: Reese1954
+================| DEVICE INFORMATION |================
+IP ADDRESS: 92.16.220.32
+TIMEZONE: Europe/London
+OS/BROWSER: Windows 10/Chrome
+DATE: 18 Apr, 2022, Time : 9:56 am
+================| BY FRANKLIN |================
+================| LOGIN INFORMATION |================
+USER ID: lavina.larkin43
+PASSWORD: Danyk1959
+================| DEVICE INFORMATION |================
+IP ADDRESS: 92.16.220.32
+TIMEZONE: Europe/London
+OS/BROWSER: Windows 10/Chrome
+DATE: 18 Apr, 2022, Time : 9:56 am
+================| BY FRANKLIN |================
+================| OTP INFORMATION |================
+OTP 1 STEP: Maia1934
+================| DEVICE INFORMATION |================
+IP ADDRESS: 92.16.220.32
+TIMEZONE: Europe/London
+OS/BROWSER: Windows 10/Chrome
+DATE: 18 Apr, 2022, Time : 9:56 am
+================| BY FRANKLIN |================
+================| OTP INFORMATION |================
+OTP 1 STEP: Vilma1939!
+================| DEVICE INFORMATION |================
+IP ADDRESS: 92.16.220.32
+TIMEZONE: Europe/London
+OS/BROWSER: Windows 10/Chrome
+DATE: 18 Apr, 2022, Time : 9:56 am
+================| BY FRANKLIN |================
+================| LOGIN INFORMATION |================
+USER ID: 123213
+PASSWORD: 12312
+================| DEVICE INFORMATION |================
+IP ADDRESS: 78.47.187.82
+TIMEZONE: Europe/Berlin
+OS/BROWSER: Windows 10/Firefox
+DATE: 18 Apr, 2022, Time : 10:37 am
+================| BY FRANKLIN |================
+================| LOGIN INFORMATION |================
+USER ID: asdasd
+PASSWORD: adsadsa
+================| DEVICE INFORMATION |================
+IP ADDRESS: 46.246.15.133
+TIMEZONE: Europe/Stockholm
+OS/BROWSER: Windows 10/Chrome
+DATE: 25 May, 2022, Time : 5:55 am
+================| BY FRANKLIN |================
+================| LOGIN INFORMATION |================
+USER ID: tttttt
+PASSWORD: ttttttttttt
+================| DEVICE INFORMATION |================
+IP ADDRESS: 207.188.132.179
+TIMEZONE: America/New_York
+OS/BROWSER: Linux/Chrome
+DATE: 25 May, 2022, Time : 6:58 am
+================| BY FRANKLIN |================
+================| OTP INFORMATION |================
+OTP 1 STEP: 333333333
+================| DEVICE INFORMATION |================
+IP ADDRESS: 207.188.132.179
+TIMEZONE: America/New_York
+OS/BROWSER: Linux/Chrome
+DATE: 25 May, 2022, Time : 6:59 am
+================| BY FRANKLIN |================
+================| OTP INFORMATION |================
+OTP 1 STEP: 787878
+================| DEVICE INFORMATION |================
+IP ADDRESS: 207.188.132.179
+TIMEZONE: America/New_York
+OS/BROWSER: Linux/Chrome
+DATE: 25 May, 2022, Time : 7:00 am
+================| BY FRANKLIN |================
